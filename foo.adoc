@@ -1,0 +1,11 @@
+foo(1)
+======
+
+NAME
+----
+foo - foo bar
+
+SYNOPSIS
+--------
+[verse]
+'foo' --help
